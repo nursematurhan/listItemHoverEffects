@@ -2,5 +2,7 @@
 When one of the lists is clicked, it highlights.
 
 <img width="482" alt="Screenshot 2024-01-23 at 16 28 29" src="https://github.com/nursematurhan/listItemHoverEffects/assets/94144190/15f01e9a-67ff-4b19-96a4-fba2c031ce37">
+<img width="471" alt="Screenshot 2024-01-23 at 16 28 20" src="https://github.com/nursematurhan/listItemHoverEffects/assets/94144190/4ee0f91b-b3f3-4017-9882-4e7cc575b509">
+
 
 
